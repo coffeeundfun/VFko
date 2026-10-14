@@ -1,5 +1,4 @@
 # Úložiště obsahuje jen README a LICENSE.
-# Instalační soubory patří do Releases (Assets), ne do gitu.
 *.dmg
 *.msix
 *.msixbundle
