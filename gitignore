@@ -1,0 +1,17 @@
+# Úložiště obsahuje jen README a LICENSE.
+# Instalační soubory patří do Releases (Assets), ne do gitu.
+*.dmg
+*.msix
+*.msixbundle
+*.appx
+*.exe
+*.zip
+*.sha256
+SHA256SUMS*.txt
+
+# Systémové soubory macOS a Windows
+.DS_Store
+._*
+__MACOSX/
+Thumbs.db
+desktop.ini
