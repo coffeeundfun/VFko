@@ -38,7 +38,7 @@ Instalační soubory jsou u každého [vydání](../../releases) v části **Ass
 
 Typ procesoru zjistíte v nabídce Apple → **O tomto Macu** (řádek „Čip“ nebo „Procesor“).
 
-**Požadavky:** macOS 14 Sonoma nebo novější, Windows 10 nebo 11 (64bit).
+**Požadavky:** macOS 11 Big Sur nebo novější, Windows 10 nebo 11 (64bit).
 
 ## Instalace na macOS
 
@@ -48,13 +48,13 @@ Typ procesoru zjistíte v nabídce Apple → **O tomto Macu** (řádek „Čip�
 
 ### První spuštění
 
-VFko zatím není ověřené u Applu, proto ho macOS při prvním spuštění zablokuje. Povolení stačí jednou:
+VFko zatím není ověřené u Apple, macOS aplikaci při prvním spuštění zablokuje. Povolení stačí jednou:
 
 1. Zobrazí se hlášení, že aplikaci nelze ověřit. Klikněte na **Hotovo**.
 2. Otevřete **Nastavení systému → Soukromí a zabezpečení**.
 3. Dole u hlášení o VFko klikněte na **Přesto otevřít** a potvrďte heslem nebo Touch ID.
 
-Na macOS 14 Sonoma stačí na VFko ve složce Aplikace kliknout pravým tlačítkem a zvolit **Otevřít**.
+Na macOS 11 Sonoma stačí na VFko ve složce Aplikace kliknout pravým tlačítkem a zvolit **Otevřít**.
 
 ## Aktualizace
 
