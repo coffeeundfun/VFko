@@ -1,4 +1,3 @@
-# Úložiště obsahuje jen README a LICENSE.
 *.dmg
 *.msix
 *.msixbundle
@@ -8,7 +7,6 @@
 *.sha256
 SHA256SUMS*.txt
 
-# Systémové soubory macOS a Windows
 .DS_Store
 ._*
 __MACOSX/
